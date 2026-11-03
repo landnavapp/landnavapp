@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I have moved the landnavapp repository to my personal GitHub page, and will leave this page up for some time until pages that link to this one can be updated.
+
+Please visit https://github.com/ikelw2/LandNavApp to visit the LandNavApp Repository!  Thanks
+
+
 <!--
 **landnavapp/landnavapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
